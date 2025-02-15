@@ -75,7 +75,7 @@
     "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
     "fastify": "^5.2.1",
-    "fastify-multer": "^2.0.3",
+    "fastify-multer": "git+https://github.com/huxinhai/fastify-multer.git",
     "io-ts": "^2.2.20",
     "ioredis": "^5.4.1",
     "jest": "29.7.0",
